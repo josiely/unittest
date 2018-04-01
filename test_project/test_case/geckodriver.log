@@ -1,0 +1,43 @@
+1522395595125	geckodriver	INFO	geckodriver 0.19.1
+1522395595145	geckodriver	INFO	Listening on 127.0.0.1:59096
+1522395598235	mozrunner::runner	INFO	Running command: "D:\\QMDownload\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1.PC-\\AppData\\Local\\Temp\\rust_mozprofile.yhI872xCkFdh"
+1522395599888	Marionette	INFO	Enabled via --marionette
+[Parent 8128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522395608762	Marionette	INFO	Listening on port 59104
+1522395609836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unittes&json=1&p=3&sid=1446_19034_13549_21083_22074&req=2&csor=7&pwd=unitte&cb=jQuery110204931279032626448_1522395619890&_=1522395619897, line 1: TypeError: jQuery110204931279032626448_1522395619890 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unittest&json=1&p=3&sid=1446_19034_13549_21083_22074&req=2&csor=8&pwd=unittes&cb=jQuery110204931279032626448_1522395619890&_=1522395619898, line 1: TypeError: jQuery110204931279032626448_1522395619890 is not a function
+[Child 8944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522396630981	geckodriver	INFO	geckodriver 0.19.1
+1522396630991	geckodriver	INFO	Listening on 127.0.0.1:59402
+1522396634081	mozrunner::runner	INFO	Running command: "D:\\QMDownload\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1.PC-\\AppData\\Local\\Temp\\rust_mozprofile.Ry2leLBtv48R"
+1522396635702	Marionette	INFO	Enabled via --marionette
+1522396642354	Marionette	INFO	Listening on port 59410
+1522396643376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522396696039	geckodriver	INFO	geckodriver 0.19.1
+1522396696049	geckodriver	INFO	Listening on 127.0.0.1:59486
+1522396699127	mozrunner::runner	INFO	Running command: "D:\\QMDownload\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1.PC-\\AppData\\Local\\Temp\\rust_mozprofile.eu9Q4BAzpuw8"
+1522396700500	Marionette	INFO	Enabled via --marionette
+1522396705922	Marionette	INFO	Listening on port 59494
+1522396707184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522412588791	geckodriver	INFO	geckodriver 0.19.1
+1522412588806	geckodriver	INFO	Listening on 127.0.0.1:59033
+1522412591856	mozrunner::runner	INFO	Running command: "D:\\QMDownload\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1.PC-\\AppData\\Local\\Temp\\rust_mozprofile.AEVXj38TLp9o"
+1522412593506	Marionette	INFO	Enabled via --marionette
+1522412599698	Marionette	INFO	Listening on port 59045
+1522412600184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522412679418	geckodriver	INFO	geckodriver 0.19.1
+1522412679431	geckodriver	INFO	Listening on 127.0.0.1:59239
+1522412682484	mozrunner::runner	INFO	Running command: "D:\\QMDownload\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1.PC-\\AppData\\Local\\Temp\\rust_mozprofile.9Opg2xNHCXhm"
+1522412684770	Marionette	INFO	Enabled via --marionette
+1522412690942	Marionette	INFO	Listening on port 59252
+1522412691044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522412796748	geckodriver	INFO	geckodriver 0.19.1
+1522412796761	geckodriver	INFO	Listening on 127.0.0.1:59611
+1522412799820	mozrunner::runner	INFO	Running command: "D:\\QMDownload\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1.PC-\\AppData\\Local\\Temp\\rust_mozprofile.IbymchQjVtpc"
+1522412801338	Marionette	INFO	Enabled via --marionette
+1522412807512	Marionette	INFO	Listening on port 59622
+1522412807806	Marionette	WARN	TLS certificate errors will be ignored for this session
