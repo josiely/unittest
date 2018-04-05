@@ -1,0 +1,34 @@
+1522902626530	geckodriver	INFO	geckodriver 0.19.1
+1522902626540	geckodriver	INFO	Listening on 127.0.0.1:54789
+1522902629559	mozrunner::runner	INFO	Running command: "D:\\QMDownload\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1.PC-\\AppData\\Local\\Temp\\rust_mozprofile.cQiWuwWuyP3r"
+1522902631136	Marionette	INFO	Enabled via --marionette
+1522902637028	Marionette	INFO	Listening on port 54797
+1522902637446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1522902641842	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:274 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/QMDownload/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/QMDownload/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4419 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2279 < GeckoDriver.prototype.quit()@driver.js:3270 < despatch()@server.js:557 < execute()@server.js:531 < onPacket/<()@server.js:506 < onPacket()@server.js:505 < _onJSONObjectReady/<()@transport.js:500
+1522902666505	geckodriver	INFO	geckodriver 0.19.1
+1522902666509	geckodriver	INFO	Listening on 127.0.0.1:54832
+1522902669576	mozrunner::runner	INFO	Running command: "D:\\QMDownload\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1.PC-\\AppData\\Local\\Temp\\rust_mozprofile.RyUsHoglu7YZ"
+1522902671274	Marionette	INFO	Enabled via --marionette
+1522902677382	Marionette	INFO	Listening on port 54841
+1522902677510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 3052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522902706034	geckodriver	INFO	geckodriver 0.19.1
+1522902706044	geckodriver	INFO	Listening on 127.0.0.1:54881
+1522902709089	mozrunner::runner	INFO	Running command: "D:\\QMDownload\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1.PC-\\AppData\\Local\\Temp\\rust_mozprofile.nvI8PkbJisYq"
+1522902710580	Marionette	INFO	Enabled via --marionette
+1522902716156	Marionette	INFO	Listening on port 54889
+1522902716738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 8516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522902788892	geckodriver	INFO	geckodriver 0.19.1
+1522902788902	geckodriver	INFO	Listening on 127.0.0.1:54932
+1522902791935	mozrunner::runner	INFO	Running command: "D:\\QMDownload\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1.PC-\\AppData\\Local\\Temp\\rust_mozprofile.fGEiPUE7rPoq"
+1522902793382	Marionette	INFO	Enabled via --marionette
+1522902799818	Marionette	INFO	Listening on port 54940
+1522902800300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
